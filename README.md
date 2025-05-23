@@ -31,5 +31,5 @@
   
   ##
   
-  ![Snake animation](https://github.com/GuilheermeMarques/guilhermemarques/blob/output/github-contribution-grid-snake.svg)
+  ![snake_gif](https://github.com/GuilheermeMarques/GuilheermeMarques/blob/output/github-snake-dark.svg)
   
