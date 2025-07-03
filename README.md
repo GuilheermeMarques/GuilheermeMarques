@@ -1,7 +1,6 @@
 ### Olá! Seja bem vindo ao meu perfil 👋
 
 
-- 🔭 Atualmente trabalho com Python e C#, utilizando aplicações com conceitos de mensageria como Rabbit e Kafka.
 - 🌱 Sempre estudando algumas coisinhas por ai
 - 📫 Entre em contato comigo através do e-mail: guimarquesf94@gmail.com
 - ⚡ Curiosidade: Sou um dev que não bebe café 💁‍♂️
